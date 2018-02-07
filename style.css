@@ -1,0 +1,126 @@
+body {
+	font-family: "Lucida Console", Monaco, monospace;
+}
+
+h1, h3, p {
+	margin: 0;
+	color: #DDDFD4;
+}
+
+#page-surround {
+	width: 970px;
+	display: block;
+	margin: 0 auto;
+	background-color: #DDDFD4;
+	padding: 1rem;
+}
+
+.header {
+	background-color: #3FB0AC;
+	
+}
+
+.header img {
+	max-width: 40px;
+	width: 100%;
+	display: inline-block;
+	margin: 0.75rem 0 0.75rem 0.75rem;
+	vertical-align: top;
+}
+
+.header h1 {
+	font-size: 1.75rem;
+	display: inline-block;
+	margin: 1rem 1rem 1rem 0.5rem;
+	color: black;
+}
+
+.header ul {
+	display: inline-block;
+	padding: 0;
+	margin: 1.45rem 1.45rem 1.45rem 7rem;
+	vertical-align: top;
+	
+}
+
+.header ul li {
+	display: inline-block;
+}
+
+.header ul li a {
+	font-size: 0.8rem;
+	color: #fff;
+}
+
+.body-content {
+	background-color: #FAE596;
+	padding: 1rem;
+	margin-top: 1rem;
+}
+
+.block, .col1, .row3 {
+	background-color: #173F43;
+	padding: 0 0.75rem 0.75rem 0.75rem;
+}
+
+.row1 .block {
+	display: inline-block;
+	width: 150px;
+	vertical-align: top;
+	margin: 0 1rem 1rem 1rem;
+	height: 155px;
+}
+
+.col1, .col2 {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.col1 {
+	width: 230px;
+	margin-right: 1rem;
+	height: 503px;
+}
+
+.col2 {
+	width: 70%;
+}
+
+.body-content h1 {
+	font-size: 1.25rem;
+	margin: 1rem 0;
+}
+
+.body-content h3 {
+	font-size: 1rem;
+	margin: 0.5rem 0 1rem;
+}
+
+.body-content p {
+	font-size: 0.8rem;
+	padding: 0 0.5rem;
+	line-height: 1.1rem;
+}
+
+.command {
+	color: #54DACA;
+}
+
+.row2 .block {
+	display: inline-block;
+	width: 258px;
+	vertical-align: top;
+	margin: 1rem;
+	height: 130px;
+}
+
+.row3 {
+	display: inline-block;
+	width: 582px;
+	vertical-align: top;
+	margin: 1rem;
+	height: 130px;
+}
+
+
+
